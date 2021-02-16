@@ -1,0 +1,3 @@
+/Users/kristhiandeoliveira/CLionProjects/AirgeadBanking /cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kristhiandeoliveira/CLionProjects/AirgeadBanking /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kristhiandeoliveira/CLionProjects/AirgeadBanking /cmake-build-debug/CMakeFiles/AirgeadBanking_.dir

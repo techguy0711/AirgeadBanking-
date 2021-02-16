@@ -1,0 +1,11 @@
+void displayForm()
+    show user what field they are typing in.
+void displayResults(float initialInvestment, float monthlyDeposit, float anualInterest, float years, float months)
+    display the results of the calculations after input has been received.
+
+void getUserInput(float initialInvestment, float monthlyDeposit, float anualInterest, float years, float months)
+    call displayResults after user input has been recieved. User input goes in this scope.
+int main()
+    Store the following variables in main initialInvestment, monthlyDeposit, anualInterest, months, years;
+    Call displayForm to show form
+    call getUserInput which gets user input, and displays results.
